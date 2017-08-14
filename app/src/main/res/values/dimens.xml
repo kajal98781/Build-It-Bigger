@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_corner_radius">4dp</dimen>
+    <dimen name="padding_small">10dp</dimen>
+    <dimen name="margin_avg">20dp</dimen>
+    <dimen name="card_height">100dp</dimen>
+</resources>

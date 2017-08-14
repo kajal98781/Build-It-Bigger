@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Build-It-Bigger</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="load_joke">Load Joke</string>
+    <string name="app_name_free">Buid-It-Bigger-Free</string>
+    <string name="app_name_paid">Build-It-Bigger-Paid</string>
+    <string name="joke_from_gae">Fetch Joke GCE</string>
+</resources>

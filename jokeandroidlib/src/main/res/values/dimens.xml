@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="radius_cardview">4dp</dimen>
+    <dimen name="text_size_medium">15sp</dimen>
+    <dimen name="margin_cardview">10dp</dimen>
+    <dimen name="header_height">50dp</dimen>
+    <dimen name="back_button_padding">10dp</dimen>
+    <dimen name="back_button_size">30dp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+</resources>
